@@ -3,9 +3,9 @@
   "repo": "namesiloagent/joel-namesilo-tasks",
   "branch": "main",
   "folder": "dev-handoff",
-  "sourceCommit": "790f602df45a7d95953cd8be5fda257b19a8f969",
+  "sourceCommit": "277a3234fa208542fe7254ba1616d08b306d4e82",
   "crawledAt": "2026-09-29T17:18:17.130Z",
-  "generatedAt": "2026-10-12T07:51:15.571Z",
+  "generatedAt": "2026-10-12T08:04:56.323Z",
   "generatedBy": "scripts/build-map.mjs",
   "githubBase": "https://github.com/namesiloagent/joel-namesilo-tasks/blob/main/dev-handoff/",
   "counts": {
@@ -5589,7 +5589,7 @@
       "logicalPageId": "LP-homepage",
       "section": "Main",
       "pagePath": "(homepage)",
-      "title": "The Smarter Platform for Domains and Web Services",
+      "title": "The Smarter Platform for Domains and Web Services | NameSilo",
       "targetUrl": "https://www.namesilo.com/en",
       "legacyUrls": [
         "https://www.namesilo.com/"
