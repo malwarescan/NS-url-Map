@@ -3,9 +3,9 @@
   "repo": "namesiloagent/joel-namesilo-tasks",
   "branch": "main",
   "folder": "dev-handoff",
-  "sourceCommit": "277a3234fa208542fe7254ba1616d08b306d4e82",
+  "sourceCommit": "eb539f6466354ef64f56e8fd33b37fe0356f45cf",
   "crawledAt": "2026-09-29T17:18:17.130Z",
-  "generatedAt": "2026-10-12T08:04:56.323Z",
+  "generatedAt": "2026-10-12T09:30:44.489Z",
   "generatedBy": "scripts/build-map.mjs",
   "githubBase": "https://github.com/namesiloagent/joel-namesilo-tasks/blob/main/dev-handoff/",
   "counts": {
