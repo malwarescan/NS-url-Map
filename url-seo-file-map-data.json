@@ -3,9 +3,9 @@
   "repo": "namesiloagent/joel-namesilo-tasks",
   "branch": "main",
   "folder": "dev-handoff",
-  "sourceCommit": "de657b906611c6a331aa57597053382f5bdc47b0",
+  "sourceCommit": "75d980ba3678e17e75ee510d74af337447097ff6",
   "crawledAt": "2026-09-29T17:18:17.130Z",
-  "generatedAt": "2026-10-12T10:31:29.121Z",
+  "generatedAt": "2026-10-13T14:00:09.453Z",
   "generatedBy": "scripts/build-map.mjs",
   "githubBase": "https://github.com/namesiloagent/joel-namesilo-tasks/blob/main/dev-handoff/",
   "counts": {
@@ -48,7 +48,7 @@
       "logicalPageId": "LP-blog-category-en-business-guides",
       "section": "Blog",
       "pagePath": "/blog/category/en/Business Guides",
-      "title": "Business Guides | Namesilo Blog",
+      "title": "Business Guides",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Business%20Guides",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Business%20Guides"
@@ -82,7 +82,7 @@
       "logicalPageId": "LP-blog-category-en-domain-names",
       "section": "Blog",
       "pagePath": "/blog/category/en/Domain Names",
-      "title": "Domain Names | Namesilo Blog",
+      "title": "Domain Names",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Domain%20Names",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Domain%20Names"
@@ -116,7 +116,7 @@
       "logicalPageId": "LP-blog-category-en-email",
       "section": "Blog",
       "pagePath": "/blog/category/en/Email",
-      "title": "Email | Namesilo Blog",
+      "title": "Email",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Email",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Email"
@@ -150,7 +150,7 @@
       "logicalPageId": "LP-blog-category-en-marketing-tips",
       "section": "Blog",
       "pagePath": "/blog/category/en/Marketing Tips",
-      "title": "Marketing Tips | Namesilo Blog",
+      "title": "Marketing Tips",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Marketing%20Tips",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Marketing%20Tips"
@@ -184,7 +184,7 @@
       "logicalPageId": "LP-blog-category-en-marketplace",
       "section": "Blog",
       "pagePath": "/blog/category/en/Marketplace",
-      "title": "Marketplace | Namesilo Blog",
+      "title": "Marketplace",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Marketplace",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Marketplace"
@@ -218,7 +218,7 @@
       "logicalPageId": "LP-blog-category-en-press-release",
       "section": "Blog",
       "pagePath": "/blog/category/en/Press Release",
-      "title": "Press Release | Namesilo Blog",
+      "title": "Press Release",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Press%20Release",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Press%20Release"
@@ -252,7 +252,7 @@
       "logicalPageId": "LP-blog-category-en-privacy-26-security",
       "section": "Blog",
       "pagePath": "/blog/category/en/Privacy %26 Security",
-      "title": "Privacy & Security | Namesilo Blog",
+      "title": "Privacy & Security",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Privacy%20%26%20Security",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Privacy%20%26%20Security"
@@ -286,7 +286,7 @@
       "logicalPageId": "LP-blog-category-en-privacy-security",
       "section": "Blog",
       "pagePath": "/blog/category/en/Privacy & Security",
-      "title": "Privacy & Security | Namesilo Blog",
+      "title": "Privacy & Security",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Privacy%20&%20Security",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Privacy%20&%20Security"
@@ -320,7 +320,7 @@
       "logicalPageId": "LP-blog-category-en-stats-26-data",
       "section": "Blog",
       "pagePath": "/blog/category/en/Stats %26 Data",
-      "title": "Stats & Data | Namesilo Blog",
+      "title": "Stats & Data",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Stats%20%26%20Data",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Stats%20%26%20Data"
@@ -354,7 +354,7 @@
       "logicalPageId": "LP-blog-category-en-stats-data",
       "section": "Blog",
       "pagePath": "/blog/category/en/Stats & Data",
-      "title": "Stats & Data | Namesilo Blog",
+      "title": "Stats & Data",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Stats%20&%20Data",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Stats%20&%20Data"
@@ -388,7 +388,7 @@
       "logicalPageId": "LP-blog-category-en-support-guides",
       "section": "Blog",
       "pagePath": "/blog/category/en/Support Guides",
-      "title": "Support Guides | Namesilo Blog",
+      "title": "Support Guides",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Support%20Guides",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Support%20Guides"
@@ -422,7 +422,7 @@
       "logicalPageId": "LP-blog-category-en-websites-26-hosting",
       "section": "Blog",
       "pagePath": "/blog/category/en/Websites %26 Hosting",
-      "title": "Websites & Hosting | Namesilo Blog",
+      "title": "Websites & Hosting",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Websites%20%26%20Hosting",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Websites%20%26%20Hosting"
@@ -456,7 +456,7 @@
       "logicalPageId": "LP-blog-category-en-websites-hosting",
       "section": "Blog",
       "pagePath": "/blog/category/en/Websites & Hosting",
-      "title": "Websites & Hosting | Namesilo Blog",
+      "title": "Websites & Hosting",
       "targetUrl": "https://www.namesilo.com/blog/category/en/Websites%20&%20Hosting",
       "legacyUrls": [
         "https://www.namesilo.com/blog/category/en/Websites%20&%20Hosting"
@@ -558,7 +558,7 @@
       "logicalPageId": "LP-blog-en-business-guides-5-ways-to-lock-in-a-creative-business-name",
       "section": "Blog",
       "pagePath": "/blog/en/business-guides/5-ways-to-lock-in-a-creative-business-name",
-      "title": "5 Ways to Lock in a Creative Business Name | Namesilo Blog",
+      "title": "5 Ways to Lock in a Creative Business Name",
       "targetUrl": "https://www.namesilo.com/blog/en/business-guides/5-ways-to-lock-in-a-creative-business-name",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/business-guides/5-ways-to-lock-in-a-creative-business-name"
@@ -1136,7 +1136,7 @@
       "logicalPageId": "LP-blog-en-domain-names-brandable-vs-descriptive-domain",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/brandable-vs-descriptive-domain",
-      "title": "Brandable Domain vs. Descriptive Domain - NameSilo Blog | Namesilo Blog",
+      "title": "Brandable Domain vs. Descriptive Domain",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/brandable-vs-descriptive-domain",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/brandable-vs-descriptive-domain"
@@ -1170,7 +1170,7 @@
       "logicalPageId": "LP-blog-en-domain-names-check-domains-at-namesilo-your-one-stop-domain-provider",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/check-domains-at-namesilo-your-one-stop-domain-provider",
-      "title": "Check Domains At NameSilo - NameSilo Blog | Namesilo Blog",
+      "title": "Check Domains At NameSilo",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/check-domains-at-namesilo-your-one-stop-domain-provider",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/check-domains-at-namesilo-your-one-stop-domain-provider"
@@ -1306,7 +1306,7 @@
       "logicalPageId": "LP-blog-en-domain-names-domain-name-online-presence",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/domain-name-online-presence",
-      "title": "Domain Names: Power Your Online Presence - NameSilo Blog | Namesilo Blog",
+      "title": "Domain Names: Power Your Online Presence",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/domain-name-online-presence",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/domain-name-online-presence"
@@ -1544,7 +1544,7 @@
       "logicalPageId": "LP-blog-en-domain-names-how-to-change-a-domain-name-for-a-website-dos-and-donts",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/how-to-change-a-domain-name-for-a-website-dos-and-donts",
-      "title": "How to Change a Domain Name for a Website - NameSilo Blog | Namesilo Blog",
+      "title": "How to Change a Domain Name for a Website",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/how-to-change-a-domain-name-for-a-website-dos-and-donts",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/how-to-change-a-domain-name-for-a-website-dos-and-donts"
@@ -1646,7 +1646,7 @@
       "logicalPageId": "LP-blog-en-domain-names-how-to-secure-a-business-name",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/how-to-secure-a-business-name",
-      "title": "How to Secure a Business Name - NameSilo Blog | Namesilo Blog",
+      "title": "How to Secure a Business Name",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/how-to-secure-a-business-name",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/how-to-secure-a-business-name"
@@ -1748,7 +1748,7 @@
       "logicalPageId": "LP-blog-en-domain-names-the-2023-guide-to-expired-domains",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/the-2023-guide-to-expired-domains",
-      "title": "The 2023 Guide to Expired Domains | Namesilo Blog",
+      "title": "The 2023 Guide to Expired Domains",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/the-2023-guide-to-expired-domains",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/the-2023-guide-to-expired-domains"
@@ -1816,7 +1816,7 @@
       "logicalPageId": "LP-blog-en-domain-names-transferring-your-domain-to-namesilo-a-step-by-step-guide",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/transferring-your-domain-to-namesilo-a-step-by-step-guide",
-      "title": "Transferring Your Domain to NameSilo | Namesilo Blog",
+      "title": "Transferring Your Domain to NameSilo",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/transferring-your-domain-to-namesilo-a-step-by-step-guide",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/transferring-your-domain-to-namesilo-a-step-by-step-guide"
@@ -1918,7 +1918,7 @@
       "logicalPageId": "LP-blog-en-domain-names-what-is-domain-name-trademark-infringement",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/what-is-domain-name-trademark-infringement",
-      "title": "What is Domain Name Trademark Infringement? | Namesilo Blog",
+      "title": "What is Domain Name Trademark Infringement?",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/what-is-domain-name-trademark-infringement",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/what-is-domain-name-trademark-infringement"
@@ -1952,7 +1952,7 @@
       "logicalPageId": "LP-blog-en-domain-names-what-is-domain-parking",
       "section": "Blog",
       "pagePath": "/blog/en/domain-names/what-is-domain-parking",
-      "title": "What Is Domain Parking? - NameSilo Blog | Namesilo Blog",
+      "title": "What Is Domain Parking?",
       "targetUrl": "https://www.namesilo.com/blog/en/domain-names/what-is-domain-parking",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/domain-names/what-is-domain-parking"
@@ -2972,7 +2972,7 @@
       "logicalPageId": "LP-blog-en-marketing-tips-x-affiliate-marketing-tips-that-actually-work",
       "section": "Blog",
       "pagePath": "/blog/en/marketing-tips/x-affiliate-marketing-tips-that-actually-work",
-      "title": "Affiliate Marketing Tips That Actually Work - NameSilo Blog | Namesilo Blog",
+      "title": "Affiliate Marketing Tips That Actually Work",
       "targetUrl": "https://www.namesilo.com/blog/en/marketing-tips/x-affiliate-marketing-tips-that-actually-work",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/marketing-tips/x-affiliate-marketing-tips-that-actually-work"
@@ -3074,7 +3074,7 @@
       "logicalPageId": "LP-blog-en-privacy-security-cybersquatting-what-is-it-and-how-can-you-prevent-it",
       "section": "Blog",
       "pagePath": "/blog/en/privacy-security/cybersquatting-what-is-it-and-how-can-you-prevent-it",
-      "title": "Cybersquatting: How Can You Prevent It? - NameSilo Blog | Namesilo Blog",
+      "title": "Cybersquatting: How Can You Prevent It?",
       "targetUrl": "https://www.namesilo.com/blog/en/privacy-security/cybersquatting-what-is-it-and-how-can-you-prevent-it",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/privacy-security/cybersquatting-what-is-it-and-how-can-you-prevent-it"
@@ -3482,7 +3482,7 @@
       "logicalPageId": "LP-blog-en-stats-data-marketplace-stats-august-2024",
       "section": "Blog",
       "pagePath": "/blog/en/stats-data/marketplace-stats-august-2024",
-      "title": "NameSilo Marketplace Stats - August 2024 | NameSilo Blog | Namesilo Blog",
+      "title": "NameSilo Marketplace Stats - August 2024",
       "targetUrl": "https://www.namesilo.com/blog/en/stats-data/marketplace-stats-august-2024",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/stats-data/marketplace-stats-august-2024"
@@ -3516,7 +3516,7 @@
       "logicalPageId": "LP-blog-en-stats-data-marketplace-stats-july-2024",
       "section": "Blog",
       "pagePath": "/blog/en/stats-data/marketplace-stats-july-2024",
-      "title": "NameSilo Marketplace Stats - July 2024 | NameSilo Blog | Namesilo Blog",
+      "title": "NameSilo Marketplace Stats - July 2024",
       "targetUrl": "https://www.namesilo.com/blog/en/stats-data/marketplace-stats-july-2024",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/stats-data/marketplace-stats-july-2024"
@@ -3550,7 +3550,7 @@
       "logicalPageId": "LP-blog-en-stats-data-registration-stats-august-2024",
       "section": "Blog",
       "pagePath": "/blog/en/stats-data/registration-stats-august-2024",
-      "title": "NameSilo Registration Stats - August 2024 | NameSilo Blog | Namesilo Blog",
+      "title": "NameSilo Registration Stats - August 2024",
       "targetUrl": "https://www.namesilo.com/blog/en/stats-data/registration-stats-august-2024",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/stats-data/registration-stats-august-2024"
@@ -3584,7 +3584,7 @@
       "logicalPageId": "LP-blog-en-stats-data-registration-stats-july-2024",
       "section": "Blog",
       "pagePath": "/blog/en/stats-data/registration-stats-july-2024",
-      "title": "NameSilo Registration Stats - July 2024 | NameSilo Blog | Namesilo Blog",
+      "title": "NameSilo Registration Stats - July 2024",
       "targetUrl": "https://www.namesilo.com/blog/en/stats-data/registration-stats-july-2024",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/stats-data/registration-stats-july-2024"
@@ -3686,7 +3686,7 @@
       "logicalPageId": "LP-blog-en-support-guides-managing-domain-locks",
       "section": "Blog",
       "pagePath": "/blog/en/support-guides/managing-domain-locks",
-      "title": "Managing Domain Locks with NameSilo | Namesilo Blog",
+      "title": "Managing Domain Locks with NameSilo",
       "targetUrl": "https://www.namesilo.com/blog/en/support-guides/managing-domain-locks",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/support-guides/managing-domain-locks"
@@ -3720,7 +3720,7 @@
       "logicalPageId": "LP-blog-en-support-guides-managing-sub-accounts-on-namesilo",
       "section": "Blog",
       "pagePath": "/blog/en/support-guides/managing-sub-accounts-on-namesilo",
-      "title": "Managing Sub-Accounts on NameSilo | Namesilo Blog",
+      "title": "Managing Sub-Accounts on NameSilo",
       "targetUrl": "https://www.namesilo.com/blog/en/support-guides/managing-sub-accounts-on-namesilo",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/support-guides/managing-sub-accounts-on-namesilo"
@@ -3754,7 +3754,7 @@
       "logicalPageId": "LP-blog-en-support-guides-managing-whois-privacy-on-namesilo",
       "section": "Blog",
       "pagePath": "/blog/en/support-guides/managing-whois-privacy-on-namesilo",
-      "title": "Managing WHOIS Privacy with NameSilo | Namesilo Blog",
+      "title": "Managing WHOIS Privacy with NameSilo",
       "targetUrl": "https://www.namesilo.com/blog/en/support-guides/managing-whois-privacy-on-namesilo",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/support-guides/managing-whois-privacy-on-namesilo"
@@ -3788,7 +3788,7 @@
       "logicalPageId": "LP-blog-en-support-guides-navigating-uk-domain-transfers-understanding-ips-tags-and-how-to-transfer-at-namesilo",
       "section": "Blog",
       "pagePath": "/blog/en/support-guides/navigating-uk-domain-transfers-understanding-ips-tags-and-how-to-transfer-at-namesilo",
-      "title": "Navigating .UK Domain Transfers | Namesilo Blog",
+      "title": "Navigating .UK Domain Transfers",
       "targetUrl": "https://www.namesilo.com/blog/en/support-guides/navigating-uk-domain-transfers-understanding-ips-tags-and-how-to-transfer-at-namesilo",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/support-guides/navigating-uk-domain-transfers-understanding-ips-tags-and-how-to-transfer-at-namesilo"
@@ -3890,7 +3890,7 @@
       "logicalPageId": "LP-blog-en-websites-hosting-10-ways-that-professional-web-hosting-can-benefit-your-business",
       "section": "Blog",
       "pagePath": "/blog/en/websites-hosting/10-ways-that-professional-web-hosting-can-benefit-your-business",
-      "title": "How Professional Web Hosting Benefits You - NameSilo Blog | Namesilo Blog",
+      "title": "How Professional Web Hosting Benefits You",
       "targetUrl": "https://www.namesilo.com/blog/en/websites-hosting/10-ways-that-professional-web-hosting-can-benefit-your-business",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/websites-hosting/10-ways-that-professional-web-hosting-can-benefit-your-business"
@@ -4026,7 +4026,7 @@
       "logicalPageId": "LP-blog-en-websites-hosting-benefits-of-wordpress-website",
       "section": "Blog",
       "pagePath": "/blog/en/websites-hosting/benefits-of-wordpress-website",
-      "title": "Key Benefits Of A WordPress Website? - NameSilo Blog | Namesilo Blog",
+      "title": "Key Benefits Of A WordPress Website?",
       "targetUrl": "https://www.namesilo.com/blog/en/websites-hosting/benefits-of-wordpress-website",
       "legacyUrls": [
         "https://www.namesilo.com/blog/en/websites-hosting/benefits-of-wordpress-website"
@@ -4366,7 +4366,7 @@
       "logicalPageId": "LP-blog-recent-en",
       "section": "Blog",
       "pagePath": "/blog/recent/en",
-      "title": "Recent articles | Namesilo Blog",
+      "title": "Recent articles",
       "targetUrl": "https://www.namesilo.com/blog/recent/en",
       "legacyUrls": [
         "https://www.namesilo.com/blog/recent/en"
@@ -4634,7 +4634,7 @@
       "logicalPageId": "LP-domain-count",
       "section": "Domains",
       "pagePath": "/domain-count",
-      "title": "Domain Count Report - NameSilo",
+      "title": "Domain Count Report",
       "targetUrl": "https://www.namesilo.com/en/domain-count",
       "legacyUrls": [
         "https://www.namesilo.com/domain-count"
@@ -8729,7 +8729,7 @@
       "logicalPageId": "LP-support-gdpr-policies",
       "section": "Support",
       "pagePath": "/Support/GDPR-Policies",
-      "title": "How Can We Help? | Domain Name Management Services | NameSilo",
+      "title": "How Can We Help? | Domain Name Management Services",
       "targetUrl": "https://www.namesilo.com/en/Support/GDPR-Policies",
       "legacyUrls": [
         "https://www.namesilo.com/Support/GDPR-Policies"
@@ -8755,7 +8755,7 @@
       "logicalPageId": "LP-support-how-to-link-a-domain-to-a-hosting-2fservice-provider",
       "section": "Support",
       "pagePath": "/Support/How-to-Link-a-Domain-to-a-Hosting%2FService-Provider",
-      "title": "How Can We Help? | Domain Name Management Services | NameSilo",
+      "title": "How Can We Help? | Domain Name Management Services",
       "targetUrl": "https://www.namesilo.com/en/Support/How-to-Link-a-Domain-to-a-Hosting%2FService-Provider",
       "legacyUrls": [
         "https://www.namesilo.com/Support/How-to-Link-a-Domain-to-a-Hosting%2FService-Provider"
@@ -8781,7 +8781,7 @@
       "logicalPageId": "LP-support-how-to-transfer-away-from-namesilo",
       "section": "Support",
       "pagePath": "/Support/How-to-transfer-away-from-NameSilo",
-      "title": "How Can We Help? | Domain Name Management Services | NameSilo",
+      "title": "How Can We Help? | Domain Name Management Services",
       "targetUrl": "https://www.namesilo.com/en/Support/How-to-transfer-away-from-NameSilo",
       "legacyUrls": [
         "https://www.namesilo.com/Support/How-to-transfer-away-from-NameSilo"
@@ -8844,7 +8844,7 @@
       "logicalPageId": "LP-support-what-are-name-servers-and-dns-records-3f",
       "section": "Support",
       "pagePath": "/Support/What-are-Name-Servers-and-DNS-Records%3F",
-      "title": "How Can We Help? | Domain Name Management Services | NameSilo",
+      "title": "How Can We Help? | Domain Name Management Services",
       "targetUrl": "https://www.namesilo.com/en/Support/What-are-Name-Servers-and-DNS-Records%3F",
       "legacyUrls": [
         "https://www.namesilo.com/Support/What-are-Name-Servers-and-DNS-Records%3F"
@@ -8904,7 +8904,7 @@
       "logicalPageId": "LP-support-v2",
       "section": "Support",
       "pagePath": "/support/v2",
-      "title": "How Can We Help? | Domain Name Management Services | NameSilo",
+      "title": "How Can We Help? | Domain Name Management Services",
       "targetUrl": "https://www.namesilo.com/en/support/v2",
       "legacyUrls": [
         "https://www.namesilo.com/support/v2"
@@ -10791,7 +10791,7 @@
       "logicalPageId": "LP-support-v2-articles-domain-manager-whois-privacy",
       "section": "Support",
       "pagePath": "/support/v2/articles/domain-manager/whois-privacy",
-      "title": "WHOIS Privacy | Website Domain Privacy Protection | NameSilo",
+      "title": "WHOIS Privacy | Website Domain Privacy Protection",
       "targetUrl": "https://www.namesilo.com/en/support/v2/articles/domain-manager/whois-privacy",
       "legacyUrls": [
         "https://www.namesilo.com/support/v2/articles/domain-manager/whois-privacy"
@@ -10866,7 +10866,7 @@
       "logicalPageId": "LP-support-v2-articles-email-email-forwarding",
       "section": "Support",
       "pagePath": "/support/v2/articles/email/email-forwarding",
-      "title": "Free Domain Name Email Forwarding Services | NameSilo",
+      "title": "Free Domain Name Email Forwarding Services",
       "targetUrl": "https://www.namesilo.com/en/support/v2/articles/email/email-forwarding",
       "legacyUrls": [
         "https://www.namesilo.com/support/v2/articles/email/email-forwarding"
@@ -12166,7 +12166,7 @@
       "logicalPageId": "LP-support-v2-faq",
       "section": "Support",
       "pagePath": "/support/v2/faq",
-      "title": "FAQ | NameSilo",
+      "title": "FAQ",
       "targetUrl": "https://www.namesilo.com/en/support/v2/faq",
       "legacyUrls": [
         "https://www.namesilo.com/support/v2/faq"
@@ -12472,7 +12472,7 @@
       "logicalPageId": "LP-support-v2-services-faq",
       "section": "Support",
       "pagePath": "/support/v2/services-faq",
-      "title": "Contact us | NameSilo",
+      "title": "Contact us",
       "targetUrl": "https://www.namesilo.com/en/support/v2/services-faq",
       "legacyUrls": [
         "https://www.namesilo.com/support/v2/services-faq"
